@@ -1,0 +1,21 @@
+{
+  "name": "avhelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ycy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "^4.1.1",
+    "filenamify": "^2.1.0",
+    "proxy-agent": "^3.0.3",
+    "puppeteer": "^1.11.0",
+    "qs": "^6.6.0",
+    "rd": "^2.0.1"
+  }
+}
